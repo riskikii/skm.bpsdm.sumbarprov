@@ -1,0 +1,50 @@
+.birutua {
+    background-color: #0081A7;
+  }
+  .birumuda {
+    background-color: #00AFB9;
+  }
+  .putih {
+    background-color: #FDFCDC;
+  }
+  .putihh {
+    color:#ffffff;
+  }
+  .krem {
+    background-color: #FED9B7;
+  }
+  .merah {
+    background-color: #e63946;
+  }
+  .toska {
+    background-color: #2ec4b6;
+  }
+  .oren {
+    background-color: #ff9f1c;
+  }
+
+  .tekstoska {
+    color: #2ec4b6;
+  }
+
+  .tombol {
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    width: 100px;
+    height: 36px;
+    line-height: 40px;
+    padding: 0;
+    margin-bottom: 4px;
+    text-align: center;
+    border-radius: 4%;
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    cursor: pointer;
+    vertical-align: middle;
+  }
+
+
+  
